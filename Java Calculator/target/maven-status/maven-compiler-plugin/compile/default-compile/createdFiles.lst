@@ -1,0 +1,5 @@
+com\calculator\core\Calculator.class
+com\calculator\Main.class
+com\calculator\ui\SwingCalculator$1.class
+com\calculator\ui\SwingCalculator.class
+com\calculator\history\HistoryManager.class
