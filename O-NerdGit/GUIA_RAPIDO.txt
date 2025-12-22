@@ -1,0 +1,165 @@
+╔════════════════════════════════════════════════════════════════╗
+║                   O NERD - GUIA RÁPIDO                         ║
+║                                                                ║
+║    Assistente Virtual Inteligente com IA Generativa            ║
+╚════════════════════════════════════════════════════════════════╝
+
+📋 ÍNDICE RÁPIDO
+────────────────────────────────────────────────────────────────
+1. Como iniciar
+2. Como fazer perguntas
+3. Como executar comandos
+4. Solução de problemas
+
+
+═══════════════════════════════════════════════════════════════
+1️⃣  COMO INICIAR O ASSISTENTE
+═══════════════════════════════════════════════════════════════
+
+MODO 1: Chat via Texto (RECOMENDADO PARA TESTE)
+  → Abra PowerShell/CMD na pasta
+  → Digite: python chat.py
+  → Comece a conversar!
+
+MODO 2: Completo com Voz
+  → Use: python o_nerd.py
+  → Ou execute: START_ONERD.bat
+
+MODO 3: Validar API
+  → Digite: python test_ai_response.py
+  → Verifica se tudo está funcionando
+
+
+═══════════════════════════════════════════════════════════════
+2️⃣  FAZENDO PERGUNTAS À IA
+═══════════════════════════════════════════════════════════════
+
+A IA pode responder QUALQUER tipo de pergunta:
+
+📚 Educação:
+  "Qual é a capital do Brasil?"
+  "Explique a teoria da relatividade"
+  "Como usar Python?"
+
+🎮 Diversão:
+  "Conte uma piada"
+  "Me recomende um filme"
+  "Qual é seu jogo favorito?"
+
+💻 Tecnologia:
+  "Como otimizar o SSD?"
+  "Qual antivírus é melhor?"
+  "Qual linguagem de programação aprender?"
+
+📖 Geral:
+  "Qual é a data e hora?"
+  "Me dê uma curiosidade interessante"
+  "Como ser mais produtivo?"
+
+
+═══════════════════════════════════════════════════════════════
+3️⃣  EXECUTANDO COMANDOS
+═══════════════════════════════════════════════════════════════
+
+O assistente também pode EXECUTAR AÇÕES:
+
+🌐 Abrir Websites:
+  "Abrir YouTube"
+  "Abrir Google"
+  "Abrir Gmail"
+  "Abrir [qualquer site]"
+
+🔍 Fazer Pesquisas:
+  "Pesquisar Python no Google"
+  "Buscar tutoriais no YouTube"
+  "Procurar Django"
+
+💾 Abrir Aplicativos:
+  "Abrir calculadora"
+  "Abrir notepad"
+  "Abrir VSCode"
+  "Abrir PowerShell"
+
+⚙️  Informações do Sistema:
+  "Que horas são?"
+  "Que dia é hoje?"
+  "Informações do sistema"
+  "Volume 50"
+
+
+═══════════════════════════════════════════════════════════════
+4️⃣  SOLUÇÃO DE PROBLEMAS
+═══════════════════════════════════════════════════════════════
+
+❌ PROBLEMA: "Quota Exceeded" ou erro 429
+───────────────────────────────────────────────────────────────
+CAUSA: Limite de uso da API Gemini foi alcançado
+
+SOLUÇÃO:
+  1. Aguarde 24 horas para reset do limite gratuito
+  2. OU obtenha uma nova chave em:
+     https://aistudio.google.com/app/apikey
+  3. Configure em: Variáveis de Ambiente → GOOGLE_API_KEY
+  4. Reinicie o aplicativo
+
+
+❌ PROBLEMA: "API Key not valid" ou erro de autenticação
+───────────────────────────────────────────────────────────────
+CAUSA: Chave de API incorreta ou inválida
+
+SOLUÇÃO:
+  1. Verifique a chave em config.py
+  2. Ou configure via Variáveis de Ambiente:
+     set GOOGLE_API_KEY=sua_chave_aqui
+  3. Teste: python test_ai_response.py
+
+
+❌ PROBLEMA: Microfone não está funcionando
+───────────────────────────────────────────────────────────────
+CAUSA: Modo voz requer microfone e bibliotecas de áudio
+
+SOLUÇÃO:
+  1. Use modo texto: python chat.py
+  2. Ou instale dependências: pip install -r requirements.txt
+  3. Verifique microfone nas configurações do Windows
+
+
+❌ PROBLEMA: "Módulo não encontrado"
+───────────────────────────────────────────────────────────────
+CAUSA: Dependências não instaladas
+
+SOLUÇÃO:
+  1. Abra PowerShell na pasta
+  2. Digite: pip install -r requirements.txt
+  3. Aguarde instalação
+
+
+═══════════════════════════════════════════════════════════════
+💡 DICAS E TRUQUES
+═══════════════════════════════════════════════════════════════
+
+✓ Tipo "ajuda" ou "help" para ver comandos
+✓ Use "modo voz" para ativar entrada por voz
+✓ Use "modo texto" para voltar ao texto
+✓ Digite "sair" para encerrar
+✓ O histórico da conversa é mantido
+✓ Você pode fazer perguntas de acompanhamento
+
+
+═══════════════════════════════════════════════════════════════
+📞 SUPORTE
+═══════════════════════════════════════════════════════════════
+
+Para mais informações:
+  → Leia: README.md
+  → Veja: CORRECOES.txt
+  → Teste: python test_ai_response.py
+
+Criado por: Dev Manu
+Data: Dezembro/2025
+Versão: O Nerd 1.0 (Corrigido e Funcional)
+
+
+═══════════════════════════════════════════════════════════════
+Pronto para usar! 🚀
+═══════════════════════════════════════════════════════════════

@@ -1,0 +1,31 @@
+# ============================================================================
+# O Nerd - Python Dependencies
+# Assistente Virtual de IA para Windows
+# ============================================================================
+
+# Core IA
+google-generativeai>=0.3.0      # Google Gemini API
+
+# Audio & Voice
+SpeechRecognition>=3.10.0       # Reconhecimento de fala
+pyttsx3>=2.90                   # Síntese de voz (TTS)
+PyAudio>=0.2.13                 # Entrada de áudio via microfone
+
+# UI & Output
+colorama>=0.4.6                 # Cores no terminal
+
+# System Control
+pycaw>=20230407                 # Controle de áudio do Windows
+comtypes>=1.2.0                 # Interfaces COM do Windows
+
+# Automation
+pyautogui>=0.9.53               # Automação de mouse/teclado
+keyboard>=0.13.5                # Captura de teclado
+pynput>=1.7.6                   # Entrada de usuário multiplataforma
+pygetwindow>=0.0.9              # Manipulação de janelas
+
+# Optional: Development
+# pytest>=7.0                     # Testes unitários
+# black>=23.0                     # Formatação de código
+# pylint>=2.0                     # Linting
+# mypy>=1.0                       # Type checking

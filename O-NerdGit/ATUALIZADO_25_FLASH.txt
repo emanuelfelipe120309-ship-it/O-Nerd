@@ -1,0 +1,201 @@
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                    O NERD - ASSISTENTE COMPLETO E PODEROSO                    ║
+║                                                                                ║
+║              Agora com Gemini 2.5 Flash (mais rápido e gratuito!)              ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+
+✨ TUDO FOI ATUALIZADO:
+═════════════════════════════════════════════════════════════════════════════════
+
+✅ MODELO ATUALIZADO PARA GEMINI 2.5 FLASH:
+   • Mais rápido (50% mais rápido que 2.0)
+   • 100% GRATUITO
+   • Mais inteligente e preciso
+   • Melhor suporte a português
+
+✅ SISTEMA PROMPT MELHORADO:
+   • A IA agora sabe que é COMPLETA e PODEROSA
+   • Pode fazer TUDO que o usuário pedir
+   • Entusiasmada e proativa
+   • Pronta para responder + executar
+
+
+🚀 O QUE O NERD PODE FAZER AGORA:
+═════════════════════════════════════════════════════════════════════════════════
+
+🧠 CONVERSAR:
+   • Responder qualquer pergunta
+   • Ter conversas inteligentes
+   • Contar piadas e histórias
+   • Dar dicas e soluções
+
+💻 CONTROLAR SEU PC:
+   • Abrir aplicativos
+   • Abrir sites
+   • Fazer pesquisas
+   • Automatizar tarefas
+   • Interagir com Windows
+
+🎮 FAZER COISAS:
+   • "Abra VSCode"
+   • "Abrir YouTube"
+   • "Pesquise Python no Google"
+   • "Me mostre a data de hoje"
+   • "Qual é a hora?"
+
+
+📝 EXEMPLOS DE USO:
+═════════════════════════════════════════════════════════════════════════════════
+
+EXEMPLO 1 - Pergunta Simples:
+   Você: "O que é inteligência artificial?"
+   O Nerd: [Explica detalhadamente sobre IA]
+
+EXEMPLO 2 - Abrir App:
+   Você: "Abra VSCode"
+   O Nerd: [Abre VSCode imediatamente]
+
+EXEMPLO 3 - Pesquisa:
+   Você: "Pesquise JavaScript no Google"
+   O Nerd: [Abre Google e busca JavaScript]
+
+EXEMPLO 4 - Conversa:
+   Você: "Que horas são?"
+   O Nerd: [Diz a hora atual]
+
+EXEMPLO 5 - Múltiplas Ações:
+   Você: "Abra o YouTube e pesquise Python"
+   O Nerd: [Abre YouTube e faz a busca]
+
+EXEMPLO 6 - Automação:
+   Você: "Me mostre as informações do sistema"
+   O Nerd: [Mostra CPU, RAM, SO, etc]
+
+
+🎯 COMO USAR:
+═════════════════════════════════════════════════════════════════════════════════
+
+OPÇÃO 1 - Chat Simples (RECOMENDADO):
+   python chat.py
+   
+   Depois digite suas solicitações:
+   - "Olá!"
+   - "Abrir Google"
+   - "Qual é a data?"
+   - "Conte uma piada"
+
+OPÇÃO 2 - Modo Completo com Voz:
+   python o_nerd.py
+   
+   Pode falar:
+   - "Nerd, abra YouTube"
+   - "Nerd, qual é a hora?"
+   - Use "modo voz" para ativar/desativar
+
+OPÇÃO 3 - Validar API:
+   python test_ai_response.py
+   
+   Testa se tudo está funcionando
+
+
+⚡ DICAS & TRUQUES:
+═════════════════════════════════════════════════════════════════════════════════
+
+✓ NÃO precise de comandos específicos - pedir naturalmente é melhor!
+  Ruim:  "abrir google"
+  Bom:   "Pesquise Python para iniciantes no Google"
+
+✓ A IA entende conversação natural
+  Perfeito: "Você pode abrir o VSCode e me contar sobre AI?"
+  Também funciona: "Abra VSCode"
+
+✓ Você pode ter conversas em contexto
+  Você: "Qual é a capital do Brasil?"
+  O Nerd: "Brasília"
+  Você: "Quantos habitantes tem?"
+  O Nerd: [Continua a conversa sobre Brasília]
+
+✓ Combine ações com perguntas
+  "Abra YouTube e pesquise sobre Machine Learning"
+  "Abra a calculadora e me explique como usar"
+
+✓ Use "sair", "exit" ou "quit" para encerrar
+
+
+🛡️  SEGURANÇA:
+═════════════════════════════════════════════════════════════════════════════════
+
+O Nerd PROTEGE você de:
+  ✗ Deletar arquivos importantes
+  ✗ Danificar o sistema
+  ✗ Acessar senhas
+  ✗ Executar código malicioso
+
+Mas pode fazer:
+  ✓ Abrir qualquer aplicativo seguro
+  ✓ Navegar por sites
+  ✓ Automatizar tarefas
+  ✓ Interagir com o Windows
+
+
+❓ PROBLEMAS COMUNS:
+═════════════════════════════════════════════════════════════════════════════════
+
+P: Recebo erro de quota?
+R: A chave gratuita tem limite. Obtenha uma nova em:
+   https://aistudio.google.com/app/apikey
+
+P: O microfone não funciona?
+R: Use python chat.py (modo texto) ou instale dependências:
+   pip install -r requirements.txt
+
+P: A IA não responde?
+R: Teste: python test_ai_response.py
+   Se falhar, verifique a chave API
+
+P: Como obtenho limite maior?
+R: Ative plano pago em https://ai.google.dev/dashboard
+
+
+📊 MUDANÇAS NESTA VERSÃO:
+═════════════════════════════════════════════════════════════════════════════════
+
+✅ Gemini 2.5 Flash - Modelo novo
+✅ System Prompt completamente reescrito
+✅ Melhor entendimento de comandos
+✅ Maior velocidade de resposta
+✅ Melhor integração com automação
+✅ IA mais entusiasmada e proativa
+
+
+🎉 RESUMO FINAL:
+═════════════════════════════════════════════════════════════════════════════════
+
+O NERD AGORA É UM ASSISTENTE COMPLETO E PODEROSO!
+
+Você pode:
+  ✓ Fazer qualquer pergunta
+  ✓ Pedir qualquer ação no PC
+  ✓ Automatizar tarefas
+  ✓ Ter conversas inteligentes
+  ✓ Usar 100% de graça com Gemini 2.5 Flash
+
+Simplesmente PEÇA e a IA FARÁ! 🚀
+
+
+═════════════════════════════════════════════════════════════════════════════════
+INICIAR AGORA:
+   python chat.py
+
+DOCUMENTAÇÃO:
+   • README.md - Informações completas
+   • GUIA_RAPIDO.txt - Exemplos rápidos
+   • CORRECOES.txt - O que foi corrigido
+
+═════════════════════════════════════════════════════════════════════════════════
+
+Versão: O Nerd 2.0 - Gemini 2.5 Flash
+Data: Dezembro 2025
+Status: ✅ PRONTO E FUNCIONAL
+
+═════════════════════════════════════════════════════════════════════════════════
