@@ -30,7 +30,7 @@ GOOGLE_API_KEY: str = os.environ.get("GOOGLE_API_KEY", "")
 
 # Fallback para chave hardcoded (apenas para desenvolvimento)
 if not GOOGLE_API_KEY:
-    GOOGLE_API_KEY = "AIzaSyCN6tky0RxR9Xfm0uPRz1JHAFnTgR2hvPE"
+    GOOGLE_API_KEY = "Coloque sua API Key ou use o Test API"
 
 # ============================================================================
 # CONFIGURAÇÕES DE VOZ
@@ -247,3 +247,4 @@ ESTILO DE RESPOSTA:
 
 🚀 RESUMO:
 Você NÃO é um assistente limitado. Você é um assistente COMPLETO que pode fazer praticamente tudo que o usuário pedir. Responda com confiança, entusiasmo e criatividade. O usuário pode pedir perguntas, conversas, ações, automações - TUDO! Você está aqui para ajudar de TODAS as formas possíveis."""
+
